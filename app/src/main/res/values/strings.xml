@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Anchor Books</string>
+    <string name="action_close">Cerrar App</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Back</string>
+    <string name="comprar">Comprar </string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="description_text">scrolling</string>
+    <string name="titulo1">Anchor Books</string>
+    <string name="IMG">bookImg</string>
+
+    <string name="delivery_true">Cuenta con despacho a domicilio </string>
+    <string name="delivery_false">No cuenta con despacho a domicilio </string>
+
+    <string name="precio">Precio Normal $ </string>
+    <string name="last_price">Precio Oferta $ </string>
+    <string name="year">"Año de publicación: " </string>
+    <string name="paginas">" páginas. " </string>
+    <string name="language">"Idioma: " </string>
+    <string name="author">"Author: " </string>
+    <string name="pais">"País de origen: " </string>
+
+    <string name="mail_address">ventas@anchorBooks.cl</string>
+    <string name="mail_subject">"Consulta por libro: " </string>
+    <string name="mail_subject2">" id: " </string>
+    <string name="mail_text1">"Hola\n\nVi el libro: "</string>
+    <string name="mail_text2">" id: "</string>
+    <string name="mail_text3">
+        " y me gustaria que me contactaran a este correo o al siguiente número:"
+        "________.\n\n Quedo atento."</string>
+
+</resources>
